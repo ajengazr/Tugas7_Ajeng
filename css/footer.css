@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-center img{
+    display: flex;
+    width: 25%;
+    margin-top: 10%;
+}
+.footer-center img:hover{
+    transform: scale(0.95);
+    transition: transform 0.5s ease;
+    opacity: 0.7;
+}
+.footer-kiri img{
+    margin-top: 5cap;
+    width: 100%;
+}
+.footer-kanan{margin-top: 3cap;}
